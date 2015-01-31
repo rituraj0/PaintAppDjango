@@ -1,4 +1,4 @@
-PaintAppDjango
-==============
+paint-app-in-django
+===================
 
-PaintAppDjango
+Paint application using Django, JavaScript and PostgreSQL
